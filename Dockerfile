@@ -1,6 +1,6 @@
 FROM python:3.6-slim-buster
 
-ENV BOT_TOKEN="YOUR_TOKEN_HERE"
+ENV BOT_TOKEN="1082147579:AAEsdX6m_LqILZWvnqXrDCyy706vbhYxMtw"
 
 RUN apt-get update && \
     apt-get install -y ffmpeg git
